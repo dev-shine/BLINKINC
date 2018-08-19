@@ -14,6 +14,7 @@ Best Regards.
 PS. Frontend must have not register fucntionality as Admin role.
 
 # How to Run 
+git clone https://github.com/robbieve/BLINKINC.git
 In server . open terminal and folow this command.
 npm install
 npm run dev
